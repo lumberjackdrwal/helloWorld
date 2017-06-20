@@ -1,2 +1,3 @@
-# helloWorld
-some code inside
+# Chess for windows terminal
+
+Quick-made project for a basic OOP subject, abandoned.
